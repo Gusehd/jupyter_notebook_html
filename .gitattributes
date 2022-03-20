@@ -1,2 +1,2 @@
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
+docs/* linguist-documentation
+Editor/* linguist-documentation
