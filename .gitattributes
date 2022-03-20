@@ -1,1 +1,3 @@
 *.html linguist-detectable=false
+Football/** linguist-documentation=false
+demo/** linguist-vendored=false
