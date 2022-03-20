@@ -1,3 +1,5 @@
 *.html linguist-detectable=false
 Football/** linguist-documentation=false
-demo/** linguist-vendored=false
+Hand_On/** linguist-vendored=false
+Hand_On/** linguist-documentation=false
+Football/** linguist-vendored=false
